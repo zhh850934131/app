@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://qianzhuang.nuo1000.com/api/LoanShop_resigned.ipa</string>
+					<string>http://app.zhjtwang.com/ios/LoanShop_resigned.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://qianzhuang.nuo1000.com/api/bigLogo.png</string>
+					<string>http://app.zhjtwang.com/ios/bigLogo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://qianzhuang.nuo1000.com/api/smallLogo.png</string>
+					<string>http://app.zhjtwang.com/ios/smallLogo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.LoanShop.nqkj</string>
+				<string>com.LoanShop.zhjy</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
